@@ -10,7 +10,7 @@ Each action (login, logout, add staff, update staff, delete staff, logs) is enca
 The purpose of this assignment is to automate the testing of various functionalities on a web application using Selenium WebDriver in Java.
 
 ## Selenium WebDriver (Java)
-Make sure that you have downloaded the Selenium WebDriver for Java. Here is the [link] (https://www.selenium.dev/downloads/) to download.
+Make sure that you have downloaded the Selenium WebDriver for Java. Here is the [a link] (https://www.selenium.dev/downloads/) to download.
 
 1. After downloaded, go to File > Project Structure > Dependecies
 
