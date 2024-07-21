@@ -20,9 +20,9 @@ The purpose of this assignment is to automate the testing of various functionali
 - Main.java: Performs various actions such as login, logout, add staff etc. Arguments are needed to perform the action successfully.
 
 **Noted that:
-1. Staff hourly rate must be at most 2 decimal places.
-1. Staff PIN must be in 4 digits.
-1. Make sure you have downnloded Selenium WebDriver for Java.**
+1.Staff hourly rate must be at most 2 decimal places.
+1.Staff PIN must be in 4 digits.
+1.Make sure you have downnloded Selenium WebDriver for Java.**
 
 ## Result
 
