@@ -34,7 +34,8 @@ Make sure that you have downloaded the Selenium WebDriver for Java. Click [here]
 
 **Noted that:**
 **1.Staff hourly rate must be at most 2 decimal places.**
-**1.Staff PIN must be in 4 digits.**
+
+**2.Staff PIN must be in 4 digits.**
 
 ## Result
 
