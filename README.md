@@ -19,4 +19,5 @@ The purpose of this assignment is to automate the testing of various functionali
 ## Result
 
 The result printed in console containing information such as action performed, result  (PASS/FAIL), and execution time.
+
 ![image](https://github.com/user-attachments/assets/cb6ce785-d600-4dca-9f4b-cb02dd8ebb01)
