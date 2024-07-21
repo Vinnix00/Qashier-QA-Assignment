@@ -1,4 +1,4 @@
-# Selenium Automation Tests
+# Selenium Automation Test
 
 This assignment contains Selenium automation tests for a web application, including functionalities for login, logout, add staff, update staff, and delete staff. Each function is separated into different Java files, and the main class file consists of login, logout, and actions to be performed.
 
