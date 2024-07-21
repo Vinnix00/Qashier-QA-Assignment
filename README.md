@@ -19,6 +19,11 @@ The purpose of this assignment is to automate the testing of various functionali
 - DeleteStaff.java: Delete the existing staff information.
 - Main.java: Performs various actions such as login, logout, add staff etc. Arguments are needed to perform the action successfully.
 
+**Noted that:
+1. Staff hourly rate must be at most 2 decimal places.
+1. Staff PIN must be in 4 digits.
+1. Make sure you have downnloded Selenium WebDriver for Java.**
+
 ## Result
 
 The result printed in console containing information such as action performed, result  (PASS/FAIL), and execution time.
