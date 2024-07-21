@@ -2,6 +2,9 @@
 
 This assignment contains Selenium automation tests for a web application, including functionalities for login, logout, add staff, update staff, and delete staff. Each function is separated into different Java files, and the main class file consists of login, logout, and actions to be performed.
 
+The reason that Selenium is chosen as the testing framework is because Selenium supports multiple browsers such as Chrome, Firefox, etc. making it ideal for ensuring that web applications work across different environments. Besides that, Selenium can automate a wide range of browser actions, from simple clicks to complex interactions.
+Each action (login, logout, add staff, update staff, delete staff, logs) is encapsulated in its own class. This modularity makes the code easier to understand, maintain, and reuse.
+
 ## Project Overview
 
 The purpose of this assignment is to automate the testing of various functionalities on a web application using Selenium WebDriver in Java.
