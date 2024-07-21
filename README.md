@@ -9,6 +9,19 @@ Each action (login, logout, add staff, update staff, delete staff, logs) is enca
 
 The purpose of this assignment is to automate the testing of various functionalities on a web application using Selenium WebDriver in Java.
 
+## Selenium WebDriver (Java)
+Make sure that you have downloaded the Selenium WebDriver for Java. Here is the [link] (https://www.selenium.dev/downloads/) to download.
+
+1. After downloaded, go to File > Project Structure > Dependecies
+
+![image](https://github.com/user-attachments/assets/5db81e18-be97-4c11-b879-3e594f936ee8)
+
+2. Click the plus icon as highlighted in the image below and select JAR or Directories, then select Selenium file.
+
+![image](https://github.com/user-attachments/assets/b680f37a-46b4-49ec-92d1-3bbce256048c)
+
+3. Then click Apply.
+
 ## File Structure and Function
 
 - Logs.java: Print the action, result of each action performed whether PASS or FAIL, and execution time taken in second in console.
@@ -19,10 +32,9 @@ The purpose of this assignment is to automate the testing of various functionali
 - DeleteStaff.java: Delete the existing staff information.
 - Main.java: Performs various actions such as login, logout, add staff etc. Arguments are needed to perform the action successfully.
 
-**Noted that:
-1.Staff hourly rate must be at most 2 decimal places.
-1.Staff PIN must be in 4 digits.
-1.Make sure you have downnloded Selenium WebDriver for Java.**
+**Noted that:**
+**1.Staff hourly rate must be at most 2 decimal places.**
+**1.Staff PIN must be in 4 digits.**
 
 ## Result
 
