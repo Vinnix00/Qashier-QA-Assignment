@@ -33,6 +33,7 @@ Make sure that you have downloaded the Selenium WebDriver for Java. Click [here]
 - Main.java: Performs various actions such as login, logout, add staff etc. Arguments are needed to perform the action successfully.
 
 **Noted that:**
+
 **1.Staff hourly rate must be at most 2 decimal places.**
 
 **2.Staff PIN must be in 4 digits.**
