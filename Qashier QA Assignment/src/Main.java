@@ -24,7 +24,7 @@ public class Main {
             EditStaff editStaff = new EditStaff(driver);
             editStaff.editStaff("Mohd Abu","24.90", "", "");
 
-            //Delete staffgit
+            //Delete staff
             //Input staff PIN for staff that need to be deleted
             DeleteStaff deleteStaff = new DeleteStaff(driver);
             deleteStaff.deleteStaff("1177");
